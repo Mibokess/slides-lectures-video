@@ -29,7 +29,11 @@
   "dependencies": {
     "@ffmpeg/core": "^0.8.5",
     "@ffmpeg/ffmpeg": "^0.9.6",
+    "@types/pdfjs-dist": "^2.1.7",
+    "crop-image-data": "^1.0.2",
     "pdfjs-dist": "^2.5.207",
+    "pixelmatch": "^5.2.1",
+    "resemblejs": "^3.2.5",
     "sirv-cli": "^1.0.0"
   }
 }
