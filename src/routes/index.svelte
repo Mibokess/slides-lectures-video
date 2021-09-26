@@ -21,8 +21,10 @@
 
 		to your new<br />SvelteKit app
 	</h1>
-
-	<h2>
+	<div class='m-10'>
+		<button class="btn">Test</button>
+	</div>
+	<h2 class="text-white">
 		try editing <strong>src/routes/index.svelte</strong>
 	</h2>
 
